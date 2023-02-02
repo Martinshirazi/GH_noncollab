@@ -3,4 +3,4 @@ def hello_world(city):
 
 
 def main():
-    print("Hello world")
+    hello_world('PLANO')
